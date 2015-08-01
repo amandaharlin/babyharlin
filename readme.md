@@ -20,6 +20,6 @@ little baby harlin
 | 2nd | 05/17/15 | 08/23/15 |
 | 3rd | 08/30/15 | 11/22/15 |
 
-[![forthebadge](http://forthebadge.com/images/badges/mom-made-pizza-rolls.svg)](http://forthebadge.com)
-
 ![video of fetus swallowing and looking away abruptly](/lolbaby.gif "ahahahaha!")
+
+[![forthebadge](http://forthebadge.com/images/badges/mom-made-pizza-rolls.svg)](http://forthebadge.com)
