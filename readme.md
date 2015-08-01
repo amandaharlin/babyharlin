@@ -5,8 +5,8 @@ little baby harlin
 
 ###Project Details
 
+* shipping: nov 22, 2015  
 * current version: v2 trimester  
-* shipping nov 22, 2015  
 * project maintainer: [@amandaharlin](https://github.com/amandaharlin)  
 * core contrib: [@the-simian](https://github.com/the-simian)
 
@@ -19,6 +19,7 @@ little baby harlin
 | 1st | 02/22/15 | 05/10/15 |
 | 2nd | 05/17/15 | 08/23/15 |
 | 3rd | 08/30/15 | 11/22/15 |
+
 
 ![video of fetus swallowing and looking away abruptly](/lolbaby.gif "ahahahaha!")
 
