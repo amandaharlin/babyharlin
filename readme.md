@@ -24,3 +24,5 @@ little baby harlin
 ![video of fetus swallowing and looking away abruptly](/lolbaby.gif "ahahahaha!")
 
 [![forthebadge](http://forthebadge.com/images/badges/mom-made-pizza-rolls.svg)](http://forthebadge.com)
+
+![baby stuntin](/pose.jpg "visible face and hand placed upon cheek")
