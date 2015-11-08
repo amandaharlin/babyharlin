@@ -6,7 +6,7 @@ little baby harlin
 ###Project Details
 
 * shipping: nov 22, 2015  
-* current version: v2 trimester  
+* current version: v3 trimester  
 * project maintainer: [@amandaharlin](https://github.com/amandaharlin)  
 * core contrib: [@the-simian](https://github.com/the-simian)
 
