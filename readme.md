@@ -5,10 +5,25 @@ little baby harlin
 
 ###Project Details
 
-* shipping: nov 22, 2015  
-* current version: v3 trimester  
+* shipped: nov 22, 2015   
 * project maintainer: [@amandaharlin](https://github.com/amandaharlin)  
 * core contrib: [@the-simian](https://github.com/the-simian)
+
+### About Ada 
+
+Ada Ripley Harlin was born 11/23/2015 at 6 lbs 15 oz and 19" long. 
+
+* dreams about eating
+* REM sleep cycle faces include big smiles, sad face, and larrydavid.gif
+* loves cuddling and being warm
+* hates her burps and poots
+* is kissed everyday (look at dem cheeks! so cute!)
+* has blue eyes, blonde hair
+* will likely have brown eyes and hair within the next year
+* is a little tounge-tied but latches just fine
+
+
+#### lil bb
 
 ![side profile of fetus' cranium](/profile.jpg "bebe's good side")
 
