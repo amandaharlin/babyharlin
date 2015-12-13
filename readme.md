@@ -21,7 +21,7 @@ Ada Ripley Harlin was born 11/23/2015 at 6 lbs 15 oz and 19" long.
 * has blue eyes, blonde hair
 * will likely have brown eyes and hair within the next year
 * is a little tounge-tied but latches just fine
-
+* is 93% for height (21" long at 1st checkup) and is in something like the 12th percentile for cranium size and weight (small lil baby)
 
 #### lil bb
 
