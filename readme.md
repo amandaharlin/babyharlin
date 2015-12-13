@@ -17,6 +17,7 @@ Ada Ripley Harlin was born 11/23/2015 at 6 lbs 15 oz and 19" long.
 * REM sleep cycle faces include big smiles, sad face, and larrydavid.gif
 * loves cuddling and being warm
 * hates her burps and poots
+* does not have jesse's simian-palmar palm crease
 * is kissed everyday (look at dem cheeks! so cute!)
 * has blue eyes, blonde hair
 * will likely have brown eyes and hair within the next year
